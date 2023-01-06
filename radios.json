@@ -1,0 +1,38 @@
+[
+    {
+        "id": "aaa",
+        "frequency": 54.1,
+        "name": "Hit Radio",
+        "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+    },
+    {
+        "id": "aab",
+        "frequency": 45.1,
+        "name": "qsdqs Radio",
+        "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+    },
+    {
+        "id": "aac",
+        "frequency": 95.1,
+        "name": "qsd Radio",
+        "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+    },
+    {
+        "id": "aad",
+        "frequency": 12.1,
+        "name": "qsdq Radio",
+        "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+    },
+    {
+        "id": "aae",
+        "frequency": 85.4,
+        "name": "qsd Radio",
+        "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+    },
+    {
+        "id": "aag",
+        "frequency": 85.7,
+        "name": "sqdqs Radio",
+        "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+    }
+]
