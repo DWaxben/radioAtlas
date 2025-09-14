@@ -7,8 +7,14 @@
     },
     {
         "id": "aab",
-        "frequency": 87.1,
+        "frequency": 87.4,
         "name": "Radio yabiladi",
         "url": "https://radio.yabiladi.com:8002/stream/1/"
+    },
+    {
+        "id": "aac",
+        "frequency": 24.5,
+        "name": "Radio izlan",
+        "url": "https://izlan.fr/radios/atlas/stream"
     }
 ]
