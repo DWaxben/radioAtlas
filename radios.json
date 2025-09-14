@@ -4,5 +4,11 @@
         "frequency": 45.1,
         "name": "Radio Coran",
         "url": "https://virmach1.hajjam.net:8005/stream/1/"
+    },
+    {
+        "id": "aaa",
+        "frequency": 87.1,
+        "name": "Radio yabiladi",
+        "url": "https://radio.yabiladi.com:8002/stream/1/"
     }
 ]
